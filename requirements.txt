@@ -1,0 +1,10 @@
+pandas
+openpyxl
+plotext
+networkx
+pyvis
+yfinance
+fpdf2
+matplotlib
+streamlit
+plotly
