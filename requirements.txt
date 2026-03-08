@@ -1,0 +1,11 @@
+pandas
+openpyxl
+plotext
+networkx
+pyvis
+yfinance
+fpdf2
+matplotlib
+streamlit>=1.35.0
+plotly
+requests-cache
